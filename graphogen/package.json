@@ -1,0 +1,7 @@
+{
+  "name": "graphogen",
+  "version": "1.0.0",
+  "description": "A small paper on a graph theory idea for pathogens",
+  "main": "index.js",
+  "license": "GPL v.2"
+}
