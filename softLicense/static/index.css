@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    line-height: 3em;
+    margin :auto;
+    max-width: 70%;
+    align-content: center;
+    background-image: url("./whitedot.png");
+    /* background-repeat: repeat; */
+    background-color: orange;
+    background-size: 200px 200px;
+}
+
+.content {
+    margin :auto;
+    max-width: 90%;
+    padding: 15%;
+    background-color: tomato;
+}
